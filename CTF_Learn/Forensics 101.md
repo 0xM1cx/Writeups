@@ -18,4 +18,4 @@ and the `grep` command is searching for a specific string is a file, you can spe
 
 we needed to find a flag so guessing that the flag has a text of flag then typing flag next to grep will search for the flag word in the strings output.
 
-The Flag is: flag{wow!_data_is_cool}
+The Flag is: **flag{wow!_data_is_cool}**
