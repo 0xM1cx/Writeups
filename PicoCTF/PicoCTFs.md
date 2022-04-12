@@ -12,6 +12,7 @@ The program's source code with the flag redacted can be downloaded [here](https:
 > 
 
 When we first run the program we get this prompt.
+
 ![Pasted image 20220407193413](https://user-images.githubusercontent.com/46009834/162869476-534c2b7f-8926-455f-b82c-a07f2915dd25.png)
 
 
