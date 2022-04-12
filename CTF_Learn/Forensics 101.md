@@ -8,8 +8,6 @@ This is the image:
 
 ![95f6edfb66ef42d774a5a34581f19052](https://user-images.githubusercontent.com/46009834/132868920-bb04ab0f-e824-4206-b92a-45b6f3935380.jpg)
 
-This is just an easy challenge I'm just writing this cause I just want to learn how to write Markdown files in github.
-
 So basically just run this command: `$ strings <image_name> | grep flag`.
 
 When running the command it will return/extract the `strings` in a given file, in this case the image
